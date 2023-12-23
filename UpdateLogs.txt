@@ -1,0 +1,30 @@
+# FarmorHooks Update Log
+
+## Version 1.0 (Initial Release)
+- Initial release of FarmorHooks.
+- Basic functionality to interact with Discord webhooks.
+- Send messages, explore features, and customize the tool.
+- Added an installer script (`installer.bat`) for setup.
+- Improved error handling for better user experience.
+- Updated messages.
+- Added a relaunch option for restarting the program.
+- Improved installation process.
+- Implemented colorama for enhanced console output.
+- Updated README with usage instructions and credits.
+- Integrated threading for webhook spam functionality.
+- Enhanced the installer script for a smoother setup.
+- Added support for cross-platform execution (Windows and Unix-based systems).
+- Fixed minor bugs and improved script performance.
+- Added a disclaimer in the README for educational use only.
+- Included an update log for tracking changes.
+- Added an option to choose a different webhook upon relaunch.
+- Added error handling and logging for better debugging.
+- Improved overall stability and user interface.
+
+## Version 1.1 (Future Plans)
+- ## Future Plans for Version 1.1
+- Adding a webhook name changer.
+- Feel free to DM me on Discord at farmoronlyfans to share advice or suggestions.
+- Will of course give you credit for it :D
+
+
